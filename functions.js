@@ -43,6 +43,8 @@ function oddsSmallerThan(n) {
   return Math.floor(n/2)
 }
 
+
+
 /**
  * squareOrDouble(n):
  * - receives a number n
